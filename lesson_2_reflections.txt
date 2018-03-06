@@ -22,6 +22,11 @@ enough for a logical change then it can be commited.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches are a great way to add a new functionality or to modify the way
+certain things work, but leaving the main project untouched. This way you
+can have two or more versions of the same software which you can merge later
+if you feel like everything can work together.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
