@@ -35,5 +35,9 @@ it easier to trace back or move forward.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is the product of both branches together, as long as they can work
+together. It is represented this way because it always merges one branch onto
+the current checked-out branch (main in this case).
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
