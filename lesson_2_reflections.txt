@@ -41,3 +41,7 @@ the current checked-out branch (main in this case).
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Git automatic merging saves a lot of time, but it can result in some unexpected
+behaviour, while merging manually will make sure that everything will work as
+expected.
