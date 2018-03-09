@@ -7,3 +7,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because there might be unwanted changes made in the remote that you don't want in your local.
 By always pulling manually you also make sure of what you're adding to the local from Github.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forking is a Github feature which lets you copy another repository on your account.
+You'll want to use this if you don't want or can't make changes to the original repository.
+Cloning makes a local copy of a github repository or another local file, to work on your computer.
+You'll want to use this to start mos of your work.
+Branching creates a new branch of commits in your repository.
+You'll want to use this option when implementing a new feature or making changes to a rapository
+that could interfere with the quality of the master branch.
