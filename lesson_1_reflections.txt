@@ -22,7 +22,7 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Because when proggraming, a system may be composed of multiple files that
+    Because when programing, a system may be composed of multiple files that
     work together, so for each change it's better to track the state of all the
     files that compose it. On the other hand on Google Drive you tend to save
     documents to be read or edited by themeselves and they don't have interac-
