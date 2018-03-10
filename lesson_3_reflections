@@ -20,5 +20,11 @@ that could interfere with the quality of the master branch.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-You know wgere you started from and from where the changes came from. You also know the
+You know where you started from and from where the changes came from. You also know the
 common ancestor when merging files.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git and Github I just think everything would be harder, as they are tools to facilitate a lot
+of things. From version control to sharing to collaborating, those tools exist in order to help the flow
+of work, so without them everything, while still possible, would be much harder.
