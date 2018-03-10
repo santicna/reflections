@@ -17,3 +17,8 @@ You'll want to use this to start mos of your work.
 Branching creates a new branch of commits in your repository.
 You'll want to use this option when implementing a new feature or making changes to a rapository
 that could interfere with the quality of the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You know wgere you started from and from where the changes came from. You also know the
+common ancestor when merging files.
